@@ -1,0 +1,3 @@
+Model,MAE,RMSE,MAPE (%)
+Prophet,17675.87,26577.34,52.99
+Multivariate LSTM,12938.8,20815.27,36.47
